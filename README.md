@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Adam Hałdaś junior front end developer
+  Gatsby Starter Portfolio: Cara
 </h1>
 
 <p align="center">
