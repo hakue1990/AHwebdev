@@ -1,3 +1,4 @@
+document.querySelector('.css-tsy0el').remove();
 require(`dotenv`).config({
   path: `.env`,
 })
