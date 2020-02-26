@@ -50,4 +50,4 @@ module.exports = {
     `gatsby-plugin-netlify`,
   ],
 }
-document.querySelector('.css-tsy0el').remove();
+
