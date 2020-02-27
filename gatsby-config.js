@@ -5,9 +5,13 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    // You can overwrite values here that are used for the SEO component
-    // Of course you can also add new values here to query them like usual
-    // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
+    siteTitle: `Adam Hałdaś web development`,
+    siteTitleAlt: `Adam Hałdaś web development`,
+    siteHeadline: `Adam Hałdaś - portfolio`,
+    siteUrl: `https://ahwebdev.netlify.com/`,
+    siteDescription: `Adam Hałdaś one page portfolio`,
+    siteLanguage: `pl`,
+    siteImage: `/banner1.jpg`,
     siteTitleAlt: `AH webdev`,
   },
   plugins: [
@@ -34,12 +38,12 @@ module.exports = {
         display: `standalone`,
         icons: [
           {
-            src: `/android-chrome-192x192.png`,
+            src: `/www.png`,
             sizes: `192x192`,
             type: `image/png`,
           },
           {
-            src: `/android-chrome-512x512.png`,
+            src: `/www.png`,
             sizes: `512x512`,
             type: `image/png`,
           },
