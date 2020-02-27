@@ -25,7 +25,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
+        name: `Adam Hałdaś portfolio`,
         short_name: `AHwebdev`,
         description: `Adam Hałdaś - portfolio`,
         start_url: `/`,
